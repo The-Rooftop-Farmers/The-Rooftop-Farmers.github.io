@@ -1,4 +1,4 @@
 function copyEmail() {
-    navigator.clipboard.writeText("vihaan@vihaanvp.me");
-    alert("Copied email to clipboard: vihaan@vihaanvp.me");
+    navigator.clipboard.writeText("vihaan@therooftopfarmers.org");
+    alert("Copied email to clipboard: vihaan@therooftopfarmers.org");
 }

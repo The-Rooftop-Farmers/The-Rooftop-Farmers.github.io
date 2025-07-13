@@ -15,11 +15,11 @@ The Rooftop Farmers are a duo of school students passionate about revolutionizin
 
 ## 🌐 Live Site
 
-You can visit the live site at: [https://the-rooftop-farmers.github.io](https://the-rooftop-farmers.github.io)
+You can visit the live site at: [https://therooftopfarmers.org](https://the-rooftop-farmers.github.io)
 
 ## 📧 Contact
 
-For any inquiries, reach out at [vihaan@vihaanvp.me](mailto:vihaan@vihaanvp.me).
+For any inquiries, reach out at [vihaan@therooftopfarmers.org](mailto:vihaan@therooftopfarmers.org).
 
 ---
 
